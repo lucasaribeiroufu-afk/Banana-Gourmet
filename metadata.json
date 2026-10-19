@@ -1,0 +1,6 @@
+{
+  "name": "Peniel Chips - Banana Chips Artesanal",
+  "description": "Loja oficial Peniel Chips: Banana chips artesanal, natural e crocante. Salgada na medida certa para petiscos, lanches saudáveis e harmonização com vinhos e drinks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
