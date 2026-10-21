@@ -214,7 +214,7 @@ export const FlyerPriceTable: React.FC<FlyerPriceTableProps> = ({
 
               <div className="w-44 h-44 mx-auto rounded-2xl overflow-hidden mb-4 border border-[#E5DECF] bg-[#FAF8F5]">
                 <img
-                  src="/src/assets/images/product_chips_salgada_1790886547629.jpg"
+                  src="/images/product_chips_salgada.jpg"
                   alt="Embalagem Peniel Banana Chips"
                   className="w-full h-full object-cover hover:scale-105 transition-transform"
                   referrerPolicy="no-referrer"

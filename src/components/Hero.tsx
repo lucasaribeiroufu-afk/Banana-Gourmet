@@ -107,7 +107,7 @@ export const Hero: React.FC<HeroProps> = ({ onExploreCatalog, onExplorePairings 
               {/* Main Card with High-Res Image */}
               <div className="relative rounded-3xl overflow-hidden shadow-2xl border-4 border-white bg-white">
                 <img
-                  src="/src/assets/images/hero_peniel_banana_chips_1790886537868.jpg"
+                  src="/images/hero_peniel_banana_chips.jpg"
                   alt="Banana Chips Peniel crocante em tigela rústica"
                   className="w-full h-80 sm:h-96 object-cover hover:scale-105 transition-transform duration-700"
                   referrerPolicy="no-referrer"

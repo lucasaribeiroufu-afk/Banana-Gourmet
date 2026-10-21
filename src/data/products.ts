@@ -22,7 +22,7 @@ export const PRODUCTS: Product[] = [
     bestFor: 'Petisco de happy hour, lanche da tarde na mesa de trabalho ou piqueniques em família.',
     rating: 4.9,
     reviewCount: 384,
-    image: '/src/assets/images/product_chips_salgada_1790886547629.jpg',
+    image: '/images/product_chips_salgada.jpg',
     isBestSeller: true,
     stockStatus: 'Fornada Fresca',
     nutritionalSummary: {
@@ -48,7 +48,7 @@ export const PRODUCTS: Product[] = [
     bestFor: 'Lanche rápido, pré-treino leve e bolsa do dia a dia.',
     rating: 4.8,
     reviewCount: 192,
-    image: '/src/assets/images/product_chips_salgada_1790886547629.jpg',
+    image: '/images/pack_snack_50g.jpg',
     stockStatus: 'Em estoque',
     nutritionalSummary: {
       calorias: '235 kcal / pacote',
@@ -74,7 +74,7 @@ export const PRODUCTS: Product[] = [
     bestFor: 'Reuniões familiares, churrascos e sessões de cinema em casa.',
     rating: 5.0,
     reviewCount: 145,
-    image: '/src/assets/images/hero_peniel_banana_chips_1790886537868.jpg',
+    image: '/images/hero_peniel_banana_chips.jpg',
     isBestSeller: true,
     stockStatus: 'Em estoque',
     nutritionalSummary: {
@@ -101,7 +101,7 @@ export const PRODUCTS: Product[] = [
     bestFor: 'Eventos, bares, casamentos rústicos e encontros de amigos.',
     rating: 4.9,
     reviewCount: 97,
-    image: '/src/assets/images/hero_peniel_banana_chips_1790886537868.jpg',
+    image: '/images/hero_peniel_banana_chips.jpg',
     stockStatus: 'Fornada Fresca',
     nutritionalSummary: {
       calorias: '142 kcal / 30g',
@@ -126,7 +126,7 @@ export const PRODUCTS: Product[] = [
     bestFor: 'Tardes ensolaradas à beira da piscina, petisco gourmet e harmonização sofisticada.',
     rating: 4.9,
     reviewCount: 168,
-    image: '/src/assets/images/pairing_beer_wine_chips_1790886557053.jpg',
+    image: '/images/pairing_beer_wine_chips.jpg',
     stockStatus: 'Fornada Fresca',
     nutritionalSummary: {
       calorias: '145 kcal / 30g',
@@ -151,7 +151,7 @@ export const PRODUCTS: Product[] = [
     bestFor: 'Churrascos com amigos, happy hour intenso e noites de jogos de tabuleiro.',
     rating: 4.8,
     reviewCount: 142,
-    image: '/src/assets/images/recipe_guacamole_chips_1790886566085.jpg',
+    image: '/images/chips_paprica_defumada.jpg',
     stockStatus: 'Em estoque',
     nutritionalSummary: {
       calorias: '144 kcal / 30g',
@@ -176,7 +176,7 @@ export const PRODUCTS: Product[] = [
     bestFor: 'Sobremesa rápida, café da tarde refinado e topping para iogurtes ou frutas.',
     rating: 4.9,
     reviewCount: 210,
-    image: '/src/assets/images/hero_peniel_banana_chips_1790886537868.jpg',
+    image: '/images/chips_canela_demerara.jpg',
     stockStatus: 'Em estoque',
     nutritionalSummary: {
       calorias: '148 kcal / 30g',
@@ -202,7 +202,7 @@ export const PRODUCTS: Product[] = [
     bestFor: 'Presentear amigos gourmets, confraternizações e momentos de descoberta gastronômica.',
     rating: 5.0,
     reviewCount: 178,
-    image: '/src/assets/images/pairing_beer_wine_chips_1790886557053.jpg',
+    image: '/images/combo_degustacao_box.jpg',
     isBestSeller: true,
     stockStatus: 'Fornada Fresca',
     nutritionalSummary: {
@@ -217,7 +217,7 @@ export const PRODUCTS: Product[] = [
     id: 'fardo-eventos-3kg',
     name: 'Kit Bar & Eventos Peniel (3 x 1kg Salgada)',
     tagline: 'Preço no atacado para empórios, restaurantes e festas inesquecíveis',
-    description: '3 pacotes industriais de 1kg da nossa consagrada banana chips salgada na medida certa. Economia inteligente de frete e garantia de petisco fresco para todo mundo.',
+    description: '3 pacotes de 1kg da nossa consagrada banana chips salgada na medida certa. Economia inteligente de frete e garantia de petisco fresco para todo mundo.',
     weight: '3kg (3x 1kg)',
     price: 249.00,
     originalPrice: 270.00,
@@ -229,7 +229,7 @@ export const PRODUCTS: Product[] = [
     bestFor: 'Casamentos, choperias, buffets e eventos corporativos.',
     rating: 4.9,
     reviewCount: 42,
-    image: '/src/assets/images/hero_peniel_banana_chips_1790886537868.jpg',
+    image: '/images/hero_peniel_banana_chips.jpg',
     stockStatus: 'Em estoque',
     nutritionalSummary: {
       calorias: '142 kcal / 30g',
@@ -254,7 +254,7 @@ export const PRODUCTS: Product[] = [
     bestFor: 'Cozinhar em casa, assar na brasa ou preparar pratos típicos brasileiros.',
     rating: 4.8,
     reviewCount: 56,
-    image: '/src/assets/images/hero_peniel_banana_chips_1790886537868.jpg',
+    image: '/images/bananas_da_terra_frescas.jpg',
     stockStatus: 'Fornada Fresca'
   },
   {
@@ -272,7 +272,7 @@ export const PRODUCTS: Product[] = [
     bestFor: 'Café da manhã, lanches escolares e vitaminas cremosas.',
     rating: 4.9,
     reviewCount: 64,
-    image: '/src/assets/images/hero_peniel_banana_chips_1790886537868.jpg',
+    image: '/images/bananas_prata_organicas.jpg',
     stockStatus: 'Em estoque'
   }
 ];

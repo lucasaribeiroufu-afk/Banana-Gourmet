@@ -67,7 +67,7 @@ export const NotificationModal: React.FC<NotificationModalProps> = ({
           setPushEnabled(true);
           new Notification('Peniel Chips Ativada!', {
             body: 'Você receberá alertas de fornadas quentinhas e cupons em primeira mão.',
-            icon: '/src/assets/images/product_chips_salgada_1790886547629.jpg'
+            icon: '/images/product_chips_salgada.jpg'
           });
           showToast('Notificações nativas do navegador ativadas com sucesso!');
           return;

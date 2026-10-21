@@ -10,7 +10,7 @@ export const RECIPES: Recipe[] = [
     servings: '4 pessoas',
     chipsUsed: 'Peniel Banana Chips Salgada 115g ou Lemon Pepper',
     chipsProductId: 'peniel-salgada-tradicional',
-    image: '/src/assets/images/recipe_guacamole_chips_1790886566085.jpg',
+    image: '/images/recipe_guacamole_chips.jpg',
     ingredients: [
       '2 avocados ou 1 abacate maduro amassado rústico',
       '1 tomate italiano sem sementes picado em cubinhos',
@@ -38,7 +38,7 @@ export const RECIPES: Recipe[] = [
     servings: '2 pessoas',
     chipsUsed: 'Peniel Banana Chips Lemon Pepper 115g',
     chipsProductId: 'peniel-lemon-pepper-115g',
-    image: '/src/assets/images/pairing_beer_wine_chips_1790886557053.jpg',
+    image: '/images/recipe_ceviche_tilapia.jpg',
     ingredients: [
       '300g de filé de tilápia fresca ou robalo cortado em cubos de 1,5cm',
       'Suco de 3 limões tahiti frescos',
@@ -65,7 +65,7 @@ export const RECIPES: Recipe[] = [
     servings: '4 a 6 pessoas',
     chipsUsed: 'Peniel Banana Chips Salgada 500g ou 115g',
     chipsProductId: 'peniel-salgada-tradicional',
-    image: '/src/assets/images/hero_peniel_banana_chips_1790886537868.jpg',
+    image: '/images/recipe_tabua_queijo_brie.jpg',
     ingredients: [
       '1 peça de queijo Brie ou Camembert (200g)',
       '3 colheres (sopa) de mel silvestre puro ou mel trufado',
@@ -91,7 +91,7 @@ export const RECIPES: Recipe[] = [
     servings: '6 porções',
     chipsUsed: 'Peniel Banana Chips Salgada 115g',
     chipsProductId: 'peniel-salgada-tradicional',
-    image: '/src/assets/images/product_chips_salgada_1790886547629.jpg',
+    image: '/images/recipe_farofa_crocante.jpg',
     ingredients: [
       '1 pacote de Peniel Banana Chips Salgada (115g) levemente quebrada',
       '2 xícaras de farinha de mandioca biju flocada amarela',
